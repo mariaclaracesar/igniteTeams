@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
 - [Styled-Components](https://styled-components.com/)
-- [Stack Navigator](ttps://reactnavigation.org/docs/stack-navigator/)
+- [Stack Navigator](https://reactnavigation.org/docs/stack-navigator/)
 
 ## 💻 Projeto
 
