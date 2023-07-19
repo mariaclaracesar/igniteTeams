@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="IgniteTeams" src="./src/assets/capa.png" width="80%">
+  <img alt="IgniteTeams" src="./src/assets/Capa.png" width="80%">
 </p>
 
 ## ✨ Tecnologias
